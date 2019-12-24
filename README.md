@@ -1,2 +1,2 @@
 # Projeto-final---Game-estourando-bal-es
-# Projeto criado com html,css e javascript!!
+# Projeto criado com html e javascript!!
